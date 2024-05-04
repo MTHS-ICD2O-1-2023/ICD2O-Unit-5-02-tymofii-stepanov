@@ -1,3 +1,9 @@
+// Copyright (c) 2020 Mr. Coxall All rights reserved
+//
+// Created by: Tymofii
+// Created on: Sep 2020
+// This file contains the JS functions for index.html
+
 
 function generateRandomNumber() {
   // Get the selected radio button
